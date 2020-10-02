@@ -4,12 +4,12 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-#### Note : All Contribution's will be happen on original repo : https://github.com/ankitdobhal/Awesome-Python-Scripts
+#### Note : All Contributions will happen on original repo : https://github.com/ankitdobhal/Awesome-Python-Scripts
 ## Contributor's Hack, 2020
 
 ****About****
 
-Contributor's Hack, 2020 is an Open Source Program organized by HakinCodes to introduce the youth to Open Source and it's great benefits. This program will run for about one and a half months in which fellow participants will get guidance from highly skilled mentors to contribute in Open Source Projects and after the conclusion of the program, they will recieve benefits according to their contributions.
+Contributor's Hack, 2020 is an Open Source Program organized by HakinCodes to introduce the youth to Open Source and its great benefits. This program will run for about one and a half months in which fellow participants will get guidance from highly skilled mentors to contribute in Open Source Projects and after the conclusion of the program, they will recieve benefits according to their contributions.
 
 <p align="center">
   <a href="https://hakincodes.tech/">
@@ -17,7 +17,7 @@ Contributor's Hack, 2020 is an Open Source Program organized by HakinCodes to in
   </a>
 
 ## 📌 Introduction
-A curated collection of awesome **Python** scripts from basic to advance with automation task scripts. This is the project from which you can learn that how to contribute a open source contest and specially during in Open source contest as a **Pythoneer**. 
+A curated collection of awesome **Python** scripts from basic to advance with automation task scripts. This is the project from which you can learn how to contribute an open source contest and specially during the Open source contest as a **Pythoneer**. 
 
 ##  💥 How to Contribute?
 - All contributions welcomed. Follow these [guidelines](Contribution.md) to contribute.
